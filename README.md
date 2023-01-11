@@ -19,7 +19,6 @@
     <img align="center" alt="Rael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
    </div>
     
   
@@ -35,4 +34,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/rael-developer/rael-developer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rael-developer/Rael-developer/blob/output/github-contribution-grid-snake.svg)
