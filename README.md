@@ -1,7 +1,4 @@
-## Olá! Eu sou o Israel Rodrigues
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Graduando em Análise e Desenvolvimento de Sistemas 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccbe&height=120&section=header"/>
 
