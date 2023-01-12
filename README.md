@@ -13,8 +13,7 @@
  
  <div  align="center">
 <div style="display: inline_block"><br>
-  <img align="left" height="250" alt="coding-time" src="code.gif">![code](https://user-images.githubusercontent.com/122409230/212100595-78bdaa2c-38b1-472a-b5b5-9a6327836475.gif)
-
+  <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1 align="center">Melhores Tecnologias <3</h1>
   <img align="center" alt="Rael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
