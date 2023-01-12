@@ -5,9 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71a4fd&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name's+Israel+Rodrigues;I'm+28+years+old;I'm+from+Brazil;I'm+Technology+Student;I+like+technology!+:%29)](https://git.io/typing-svg) 
 
 <div>
- 
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rael-developer&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rael-developer&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <a href="https://github.com/rael-developer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rael-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
  
