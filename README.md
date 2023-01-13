@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name's+Israel+Rodrigues;I'm+28+years+old;I'm+from+Brazil;I'm+Technology+Student;I+like+technology!+:%29)](https://git.io/typing-svg) 
 
+
 <div>
   
 <div align="center">  
@@ -49,9 +50,10 @@
 </div>
 
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
  
- <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rael-developer}/count.svg" /></p> 
 <br>
