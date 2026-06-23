@@ -2,48 +2,63 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name's+Israel+Rodrigues;I'm+29+years+old;I'm+from+Brazil;I'm+Technology+Student;I+like+technology!+:%29)](https://git.io/typing-svg) 
+# Olá 👋, eu sou o Israel (Israel Tech)
 
+🚀 *Estudante de Tecnologia | Foco em Cibersegurança, Desenvolvimento Web & IA*  
+🇧🇷 Sudeste, Brasil
 
-<div>
-  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rael-developer&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rael-developer github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rael-developer&layout=compact&hide_border=true&title_color=00BFFF&text_color=ff91a4&bg_color=0d1117" />
+Trago uma sólida experiência na área administrativa, o que me proporciona uma visão estratégica sobre organização de processos e regras de negócio, habilidades que agora aplico no desenvolvimento de soluções tecnológicas.
+
+Atualmente, desenvolvo *aplicações web interativas* e estudo ativamente segurança da informação, com foco em *Pentest e segurança ofensiva*.
+
+Tenho profundo interesse em:
+*   *Cibersegurança e automação* (exploração e defesa de sistemas);
+*   *Desenvolvimento de interfaces* (criação de experiências web dinâmicas e lógicas de programação);
+*   *Inteligência Artificial* (engenharia de prompt e estruturação de dados).
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rael-developer&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rael-developer&layout=compact)
+
+### 🖥️ Tech Stack
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+      <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img align="center" alt="python" src="    https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 
-  
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rael-developer&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-  
+---
 
- 
- <div  align="center">
-<div style="display: inline_block"><br>
-  <img align="left" height="250" alt="coding-time" src="code.gif">
-  <h1 align="center"> Main skills::</h1>
-  <img align="center" alt="Rael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rael-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="Rael-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <h1 align="center"> Studying in this moment:</h1>
-  <img align="center" alt="Rael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rael-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   </div>
-  
-##
+### 🖥️ Ambiente Operacional
 
-<div> 
-  <a href = "mailto:rodriguesisrael.13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/israel-rodrigues-de-souza-3386861b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div style="display: inline_block"><br/>
+    <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+     <img align="center" alt="kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+      <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img align="center" alt="tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/>
+      <img align="center" alt="zorin" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
+       <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
+
+---
+
+### 🚀 Filosofia
+
+> "A tecnologia vai além de apenas escrever linhas de código. Trata-se de unir lógica, segurança e visão estratégica para construir soluções eficientes e que gerem valor real."
+
+⭐ Se você gostou do meu trabalho ou dos meus estudos, considere deixar uma estrela (star) nos repositórios.
+🤝 Sempre aberto a colaborações, parcerias, troca de conhecimentos e ideias inovadoras!
+
+### 🌐 Onde me encontrar:
+* [LinkedIn](https://www.linkedin.com/in/israel-rodrigues-a90aa2368/)
+* [E-mail](rodriguesisrael.30@proton.me)
+
 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
